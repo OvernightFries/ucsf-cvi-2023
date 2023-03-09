@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Data 20220318",
+			"path": "../Documents/Data 20220318/Data 20220318"
+		},
+		{
+			"name": "SSRP",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
